@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Apprecipe" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/orange_primary</item>
+        <item name="colorPrimaryVariant">@color/orange_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+</resources>
